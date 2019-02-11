@@ -1,4 +1,4 @@
-# Programers: Cory De Mar & Alexandria Allarde
+# Programers: Cory DeMar & Alexandria Allarde
 # There is a 44 day data set.
 # Trumps tweets are on # 22 & 24
 library(quantmod)
